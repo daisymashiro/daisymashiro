@@ -4,8 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/daisymashiro">
-    <img
-      src="" 
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW14eWcxeWMxOGZyMXdvMjU3ZXg3bnZ3ajQ1c21yZWVhemJ0YWt2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q0VvDkS4j4Ia2RjAOS/giphy.gif" 
       width="270"  
       alt="Yumi Logo">
   </a>
