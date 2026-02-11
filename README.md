@@ -1,13 +1,12 @@
 
 
-
 <h1 align="center">Hi 👋, I'm Mashiro</h1>
+
 <p align="center">
   <a href="https://github.com/daisymashiro">
-    <img 
-      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW14eWcxeWMxOGZyMXdvMjU3ZXg3bnZ3ajQ1c21yZWVhemJ0YWt2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q0VvDkS4j4Ia2RjAOS/giphy.gif" 
-      width="300" 
-      style="border-radius: 50%; border:3px solid white;" 
+    <img
+      src="https://i.pinimg.com/originals/f5/63/0d/f5630ddc114edca5dfec76ae5996b152.gif" 
+      width="300"  
       alt="Yumi Logo">
   </a>
 </p>
