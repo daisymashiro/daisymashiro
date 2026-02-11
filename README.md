@@ -56,7 +56,10 @@ ___
   </a>
 </p>
 
-
+___
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#7f00ff,#e100ff,#00c6ff&height=140&section=footer"/>
+</p>
 
 
 
