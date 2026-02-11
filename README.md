@@ -5,8 +5,8 @@
 <p align="center">
   <a href="https://github.com/daisymashiro">
     <img
-      src="https://i.pinimg.com/originals/f5/63/0d/f5630ddc114edca5dfec76ae5996b152.gif" 
-      width="300"  
+      src="" 
+      width="270"  
       alt="Yumi Logo">
   </a>
 </p>
