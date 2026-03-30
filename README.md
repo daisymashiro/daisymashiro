@@ -1,19 +1,16 @@
 
-
-
 <h1 align="center">Hi 👋, I'm Mashiro</h1>
 
 <p align="center">
   <a href="https://github.com/daisymashiro">
-    <img src="https://github.com/user-attachments/assets/88f04694-f2f8-4dfe-80f1-03f978b786be" 
-      width="270"  
+    <img src="https://media.tenor.com/N5fU8iyU9F4AAAAi/shigure-ui-dance.gif" 
+      width="270px"
+      height="250px"
       alt="Yumi Logo">
   </a>
 </p>
 
-
-       
-
+<!--https://github.com/user-attachments/assets/88f04694-f2f8-4dfe-80f1-03f978b786be-->
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=daisymashiro&label=Profile%20views&color=0e75b6&style=flat" alt="daisymashiro" /> </p>
