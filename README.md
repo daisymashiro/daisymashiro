@@ -55,8 +55,16 @@ ___
 </p>
 
 ___
+## 📈 GitHub Stats
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daisymashiro&theme=tokyonight" alt="Profile Details"> <br>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daisymashiro&theme=jolly" alt="Repos Per Language">
+</div>
+
+___
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=#7f00ff,#e100ff,#00c6ff&height=140&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#7f00ff,#e100ff,#00c6ff&height=140&section=footer"/>
 </p>
 
 
